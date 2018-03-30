@@ -69,7 +69,7 @@ if (typeof w === 'object') {
 			
 			$('#ACRExtensions_copyC', kDoc).click(function (evt) {
                 if (r) {
-                    var newW = window.open('https://translate.google.com/?hl=s#auto/en/' + r, 'Google Translate' , "height=400,width=776,location=0,menubar=0,scrollbars=1,toolbar=0");
+                    var newW = window.open('https://translate.google.com/?hl=de#auto/es/' + r, 'Google Translate' , "height=400,width=776,location=0,menubar=0,scrollbars=1,toolbar=0");
                 }
             });
 
